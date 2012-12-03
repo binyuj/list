@@ -3014,6 +3014,7 @@ worldjournal.com
 @@|https://en.wordpress.com
 @@|https://*.files.wordpress.com
 @@|https://s-origin.wordpress.com
+@@|https://stats.wordpress.com
 !-||android.wordpress.org
 !-||ios.wordpress.org
 !-||wormsculptor.com
