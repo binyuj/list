@@ -567,6 +567,7 @@ dphk.org
 ||dpp.org.tw
 ||weigegebyc.dreamhosters.com
 .dropbox.com
+@@|https://*.dropbox.com
 ||dtiblog.com
 dtiserv2.com
 .duckload.com/download
@@ -3837,7 +3838,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||jtvnw.net
 ||flash.quantserve.com
 ||igfw.net
-||www.avsex8.com
+||avsex8.com
 ||www.av8d.tv
 ||m8008.com
 ||www.myradio.com.hk
