@@ -1410,6 +1410,7 @@ app.heywire.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
+@@||https://hidemyass.com
 .hihiforum.com
 |http://hihiforum.com
 .higfw.com
@@ -3876,3 +3877,4 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||extremetube.com
 !--it's just tweetr but effect all subdomain  of swfjunkie.com--
 ||tweetr.swfjunkie.com
+|http://*.proxylist.co
