@@ -536,8 +536,9 @@ delicious.com/GFWbookmark
 .diaoyuislands.org
 ||diaoyuislands.org
 ||digitalnomadsproject.org
-.diigo.com
+!-.diigo.com
 ||diigo.com
+@@|https:/*.diigo.com
 ||furl.net
 .discuss.com.hk
 ||discuss.com.hk
@@ -2476,7 +2477,7 @@ tibetfund.org
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
-tldp.org
+!-tldp.org
 |http://tmi.me
 .tnaflix.com
 ||tnaflix.com
@@ -3032,7 +3033,7 @@ wretch.cc
 .chinese.wsj.com/gb
 |http://chinese.wsj.com/gb
 .wtfpeople.com
-.wuala.com
+!-.wuala.com
 wuerkaixi.com
 wufi.org.tw
 wujie.net
@@ -3184,7 +3185,7 @@ zhufeng.me
 .ziddu.com/download
 .zkaip.com
 ||zkaip.com
-||zlib.net/
+!-||zlib.net
 .zonaeuropa.com
 ||zonaeuropa.com
 .zoozle.net
@@ -3874,6 +3875,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||twimg.com
 !||gstatic.com
 ||assembla.com
+@@|https://*.assembla.com
 ||pornhublive.com
 ||extremetube.com
 !--it's just tweetr but effect all subdomain  of swfjunkie.com--
@@ -3885,3 +3887,5 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||freshxxxtube.com
 ||xhamsterhq.com
 ||www.pornerbros.com
+||*.greatfire.org
+||proxyboxonline.com
