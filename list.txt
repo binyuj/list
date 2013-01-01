@@ -2605,7 +2605,7 @@ bbs.tuitui.info
 ||blog.mongodb.org
 ||navigeaters.com
 ||london.neighborhoodr.com
-||blog.path.com
+!-||blog.path.com
 ||parislemon.com
 ||blog.pikchur.com
 ||blog.rockmelt.com
