@@ -3008,11 +3008,11 @@ worldjournal.com
 !-zh-sg.wordpress.com
 !-zhenxiang.wordpress.com
 !-|https://*.wordpress.com
-.wordpress.com
+!-.wordpress.com
 ||wordpress.com
 !-|http://wp.com/
 !-@@|http://wordpress.com
-!-@@|https://wordpress.com
+@@|https://wordpress.com
 @@|https://en.wordpress.com
 @@|https://*.files.wordpress.com
 @@|https://s-origin.wordpress.com
