@@ -3014,7 +3014,7 @@ worldjournal.com
 !-|http://wp.com/
 !-@@|http://wordpress.com
 @@|https://wordpress.com
-@@|https://*.wordpress.com
+!-@@|https://*.wordpress.com
 @@|https://*.files.wordpress.com
 @@|https://s-origin.wordpress.com
 @@|https://stats.wordpress.com
