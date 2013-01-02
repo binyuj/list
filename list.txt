@@ -538,7 +538,7 @@ delicious.com/GFWbookmark
 ||digitalnomadsproject.org
 !-.diigo.com
 ||diigo.com
-@@|https:/*.diigo.com
+@@|https://*.diigo.com
 ||furl.net
 .discuss.com.hk
 ||discuss.com.hk
@@ -3014,7 +3014,7 @@ worldjournal.com
 !-|http://wp.com/
 !-@@|http://wordpress.com
 @@|https://wordpress.com
-@@|https://en.wordpress.com
+@@|https://*.wordpress.com
 @@|https://*.files.wordpress.com
 @@|https://s-origin.wordpress.com
 @@|https://stats.wordpress.com
