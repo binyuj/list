@@ -3013,12 +3013,16 @@ worldjournal.com
 ||wordpress.com
 !-|http://wp.com/
 !-@@|http://wordpress.com
+@@|https://en.wordpress.com
 @@|https://wordpress.com
 !-@@|https://*.wordpress.com
 @@|https://*.files.wordpress.com
 @@|https://s-origin.wordpress.com
 @@|https://stats.wordpress.com
+@@|https://store.wordpress.com
 @@|https://public-api.wordpress.com
+@@|https://theme.wordpress.com
+@@|https://vip.wordpress.com
 !-||android.wordpress.org
 !-||ios.wordpress.org
 !-||wormsculptor.com
