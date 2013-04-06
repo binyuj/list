@@ -3214,7 +3214,7 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
-zhengjian
+!zhengjian
 
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
