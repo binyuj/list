@@ -3866,8 +3866,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||globalvpn.net
 ||xvideos.com
 ||youporn.com
-||autoproxy.org
-@@|https://autoproxy.org
+|http://autoproxy.org
 ||jscmc.com.tw
 ||pchome.com.tw
 ||cts.com.tw
@@ -3878,8 +3877,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||fbcdn.net
 ||twitter.com
 ||twimg.com
-||assembla.com
-@@|https://*.assembla.com
+|http://*.assembla.com
 ||pornhublive.com
 ||extremetube.com
 !--it's just tweetr but effect all subdomain  of swfjunkie.com--
