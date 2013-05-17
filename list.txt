@@ -2120,7 +2120,6 @@ psiphon.ca
 pwned.com
 .python.com.tw
 |http://python.com.tw
-python.org*download
 
 !--------------------------QQ--------------------------
 .qanote.com
