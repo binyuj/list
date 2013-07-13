@@ -2347,6 +2347,7 @@ bbs.ozchinese.com
 .packetix.net
 page2rss.com
 ||pagodabox.com
+@@|https://dashboard.pagodabox.com
 
 !--Godaddy Free Hosting
 ||paint.net
