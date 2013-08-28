@@ -175,6 +175,7 @@ asianews.it
 ||askstudent.com
 .askynz.net
 ||askynz.net
+||assembla.com
 ||astonmartinnews.com
 .atchinese.com
 |http://atchinese.com
@@ -198,6 +199,7 @@ backchina.com
 .backpackers.com.tw/forum
 badoo.com
 ||baidu.jp
+||baixing.me
 hen.bao.li
 bannedbook.org
 ||bannedbook.org
@@ -348,6 +350,7 @@ holz.byethost8.com
 .calameo.com/books
 cn.calameo.com
 |http://cn.calameo.com
+||cams.com
 canadameet.com
 |http://bbs.cantonese.asia/
 http://www.cantonese.asia/action-bbs.html
@@ -365,6 +368,7 @@ cari.com.my
 ||catholic.org.hk
 catholic.org.tw
 ||catholic.org.tw
+.cbsnews.com/video
 ||ccavtop10.com
 !-.ccc.de
 !-||ccc.de
@@ -740,6 +744,7 @@ falundafa.org
 falundafamuseum.org
 ||falunhr.org
 ||fanglizhi.info
+||fangong.org
 fangongheike.com
 fapdu.com
 !--.farxian.com
@@ -885,6 +890,7 @@ funp.com
 ||furinkan.com
 .futurechinaforum.org
 ||futuremessage.org
+||fw.cm
 fzh999.com
 fzh999.net
 
@@ -892,7 +898,8 @@ fzh999.net
 ||gabocorp.com
 ||galenwu.com
 gamebase.com.tw
-!--||gamer.com.tw
+||gamer.com.tw
+.gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
 .gaoming.net
@@ -1876,6 +1883,7 @@ itunes.apple.com/us*id447119634
 .apple.*isunaffairs
 
 !--------------------JJ--------------------
+||j.mp
 blog.jackjia.com
 jbtalks.cc
 jbtalks.com
@@ -2082,6 +2090,7 @@ merit-times.com.tw
 .mesotw.com/bbs
 .metacafe.com
 ||meteorshowersonline.com
+||metrolife.ca
 mgoon.com
 ||mgstage.com
 mhradio.org
@@ -2453,6 +2462,7 @@ popyard.com
 .pornbase.org
 .pornhub.com
 ||pornmm.net
+.pornoxo.com
 .pornrapidshare.com
 ||pornrapidshare.com
 .pornstarclub.com
@@ -2589,7 +2599,7 @@ revver.com
 .rfa.org
 .rfachina.com
 .rfamobile.org
-rferl.org
+||rferl.org
 .rfi.fr
 ||rfi.fr
 |http://rfi.my/
@@ -2677,6 +2687,7 @@ sexinsex.net
 67.220.91.23
 .sfileydy.com
 shadow.ma
+||shadowsocks.org
 .shangfang.org
 ||shangfang.org
 shapeservices.com
@@ -2797,10 +2808,8 @@ soundcloud.com/punkgod
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
-|http://retroshare.sourceforge.net
-!-.sourceforge.net
+.sourceforge.net
 !-|http://sourceforge.net
-!-sourceforge.net/projects/portabletor/files/
 southnews.com.tw
 sowers.org.hk
 ||wlx.sowiki.net
@@ -3017,6 +3026,7 @@ bb.ttv.com.tw/bb
 tube8.com
 ||tube8.com
 tubecao.com
+||tubewolf.com
 tuidang.net
 tuidang.org
 bbs.tuitui.info
@@ -3031,12 +3041,12 @@ bbs.tuitui.info
 
 
 !-------------Tumblr-----
-||tumblr.com
-@@||assets.tumblr.com
-@@||data.tumblr.com
-@@||media.tumblr.com
-@@||static.tumblr.com
-@@||www.tumblr.com
+!--||tumblr.com
+!--@@||assets.tumblr.com
+!--@@||data.tumblr.com
+!--@@||media.tumblr.com
+!--@@||static.tumblr.com
+!--@@||www.tumblr.com
 ||301works.org
 ||365singles.com.ar
 ||all-that-is-interesting.com
@@ -3630,6 +3640,7 @@ xmovies.com
 xpdo.net
 ||xpud.org
 ||k2.xrea.com
+||xtube.com
 blog.xuite.net
 vlog.xuite.net
 xuzhiyong.net
@@ -3869,7 +3880,7 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------Wikipedia----------------
-||upload.wikimedia.org
+|https://upload.wikimedia.org
 |https://*.wikipedia.org
 .wikipedia.org/wiki/Dalai_Lama
 .wikipedia.org/wiki/Dalai-Lama
@@ -4700,7 +4711,6 @@ gov.tw
 ||www.bloomberg.com
 ||cdn.gotraffic.net
 ||businessweek.com
-||www.baixing.me
 ||jtvnw.net
 ||flash.quantserve.com
 ||avsex8.com
