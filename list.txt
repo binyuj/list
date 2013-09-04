@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Tue, 09 Jul 2013 09:21:07 -0400
+! Last Modified: Sun, 01 Sep 2013 10:21:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -480,6 +480,7 @@ chuizi.net
 !--same ip
 ||chrispederick.com
 ||chrispederick.net
+.chrlawyers.hk
 ||allaboutalpha.com
 .citizenlab.org
 citizensradio.org
@@ -2265,6 +2266,7 @@ nobodycanstop.us
 ||nownews.com
 .nowtorrents.com
 .noypf.com
+||npa.go.jp
 ||noypf.com
 .nps.gov
 .nrk.no
