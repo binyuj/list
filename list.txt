@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Sun, 01 Sep 2013 10:21:39 -0400
+! Last Modified: Wed, 30 Oct 2013 23:42:43 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -21,9 +21,11 @@ huluim.com
 .pandora.tv
 ||pure18.com
 ||spotify.com
+||target.com
 ||turntable.fm
 ||vevo.com
 ||zattoo.com
+||qq.co.za
 
 !--------------------Num--------------------
 .0rz.tw
@@ -954,6 +956,7 @@ gmbd.cn
 ||gmhz.org
 godfootsteps.org
 ||godfootsteps.org
+|http://www.goldenmelody.com.tw
 ||goldwave.com
 gongmeng.info
 gongm.in
@@ -1436,6 +1439,8 @@ google*search*q=cache
 .google.*%E9%B2%81%E6%98%95
 !--Ma Kai
 .google.*%E9%A9%AC%E5%87%AF
+!--Ma Li
+.google.*%E9%A9%AC%E5%8A%9B
 !--Mai Dang Lao | McDonald
 .google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
 !--Meng Gu+Shi Wei
@@ -1744,7 +1749,7 @@ hongmeimei.com
 ||hongzhi.li
 hootsuite.com
 ||hootsuite.com
-!--hotfile.com/dl
+hotfile.com/dl
 hotpot.hk
 ||hotspotshield.com
 ||hougaige.com
@@ -2073,6 +2078,7 @@ mashable.com
 ||mathiew-badimon.com
 ||matsushimakaede.com
 mayimayi.com
+||mcadforums.com
 mcfog.com
 .md-t.org
 ||md-t.org
@@ -2266,8 +2272,8 @@ nobodycanstop.us
 ||nownews.com
 .nowtorrents.com
 .noypf.com
-||npa.go.jp
 ||noypf.com
+||npa.go.jp
 .nps.gov
 .nrk.no
 ||nrk.no
@@ -2279,6 +2285,7 @@ ntdtv.ru
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
+.nuvid.com
 nuzcom.com
 ||nyt.com
 ||nytco.com
@@ -2358,7 +2365,6 @@ bbs.ozchinese.com
 .packetix.net
 page2rss.com
 ||pagodabox.com
-@@|https://dashboard.pagodabox.com
 
 !--Godaddy Free Hosting
 ||paint.net
@@ -2748,6 +2754,7 @@ sinoquebec.com
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
+.sis.xxx
 ||sis001.com
 sis001.us
 ||sjum.cn/
@@ -2968,6 +2975,7 @@ tibetonline.com
 ||tibetwrites.org
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
+.time.com/time/magazine
 ||blog.tiney.com
 tinychat.com
 ||tinypaste.com
@@ -3454,6 +3462,7 @@ webworkerdaily.com
 weeewooo.net/hss/hotspot_cn
 .weekmag.info
 .wefong.com
+weiboleak.com
 weijingsheng.org
 .weiming.info
 weiquanwang.org
@@ -3898,6 +3907,7 @@ en.wikipedia.org/wiki/Chen_Guangcheng
 en.wikipedia.org/wiki/Deep_packet_inspection
 en.wikipedia.org/wiki/Freegate
 en.wikipedia.org/wiki/Golden_Shield_Project
+en.wikipedia.org/wiki/Great_Firewall_of_China
 en.wikipedia.org/wiki/Hong_Kong
 en.wikipedia.org/wiki/Huang_Qi
 en.wikipedia.org/wiki/Internet_censorship
@@ -4018,6 +4028,8 @@ zh.wikipedia.org*%E5%B0%81%E4%BB%8E%E5%BE%B7
 zh.wikipedia.org*%E5%B0%81%E5%BE%9E%E5%BE%B7
 !--Feng Zheng Hu
 zh.wikipedia.org*%E5%86%AF%E6%AD%A3%E8%99%8E
+!--Fu Tie Shan
+zh.wikipedia.org*%E5%82%85%E9%93%81%E5%B1%B1
 !--Ga Lun Chi Ba
 zh.wikipedia.org*%E5%99%B6%E5%80%AB%E8%B5%A4%E5%B7%B4
 !--Gao Zhi Sheng
@@ -4694,6 +4706,7 @@ gov.tw
 @@||duckduckgo.com
 @@||jike.com
 @@||panguso.com
+@@||qq.com
 @@||sina.cn
 @@||sina.com.cn
 @@||sogou.com
