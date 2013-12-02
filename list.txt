@@ -10,10 +10,11 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Wed, 30 Oct 2013 23:42:43 -0400
+! Last Modified: Thu, 28 Nov 2013 21:37:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
+||fxnetworks.com
 hulu.com
 huluim.com
 ||netflix.com
@@ -26,6 +27,7 @@ huluim.com
 ||vevo.com
 ||zattoo.com
 ||qq.co.za
+||zozotown.com
 
 !--------------------Num--------------------
 .0rz.tw
@@ -323,6 +325,8 @@ brightkite.com
 brizzly.com
 ||brizzly.com
 broadbook.com
+.broadcasthe.net
+||broadcasthe.net
 ibros.org
 brucewang.net
 ||bt95.com
@@ -437,6 +441,7 @@ chinagfw.org
 .chinagreenparty.org
 ||chinagreenparty.org
 .chinahush.com
+chinalawtranslate.com
 chinaxchina.com/howto
 .chinainperspective.com
 chinainperspective.net/ArtShow.aspx?
@@ -1443,6 +1448,8 @@ google*search*q=cache
 .google.*%E9%A9%AC%E5%8A%9B
 !--Mai Dang Lao | McDonald
 .google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
+!--Mao Xiang Hui
+.google.*%E6%AF%9B%E5%90%91%E8%BE%89
 !--Meng Gu+Shi Wei
 .google.*%E5%86%85%E8%92%99*%E7%A4%BA%E5%A8%81
 !--Meng Jian Zhu
@@ -1702,6 +1709,7 @@ heqinglian.net
 here4news.com
 ||heungkongdiscuss.com
 app.heywire.com
+.hgseav.com
 hidden-advent.org
 ||hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -1849,6 +1857,7 @@ inxian.com
 ||ipicture.ru
 ipobar.com
 ||ippotv.com
+||iptorrents.com
 ||ipvanish.com
 iredmail.org
 ||ironicsoftware.com
@@ -1911,6 +1920,7 @@ jingpin.org
 ac.jiruan.net
 ||jitouch.com
 jkforum.net
+research.jmsc.hku.hk/social
 ||joachims.org
 ||jobso.tv
 ||joeedelman.com
@@ -2598,6 +2608,7 @@ renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
 subacme.rerouted.org
+cn.reuters.com
 .revleft.com
 retweetist.com
 ||retweetrank.com
@@ -2617,7 +2628,7 @@ riku.me/
 .rlwlw.com
 ||rlwlw.com
 chinese.rnw.nl
-www.rnw.nl/chinese
+.rnw.nl
 robtex.com
 ||robustnessiskey.com
 ||rocmp.org
@@ -2754,7 +2765,7 @@ sinoquebec.com
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
-.sis.xxx
+sis.xxx
 ||sis001.com
 sis001.us
 ||sjum.cn/
@@ -2836,6 +2847,7 @@ spinejs.com
 ||sproutcore.com
 squarespace.com
 ||ssh91.com
+|http://cdn.sstatic.net/
 www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
@@ -3602,7 +3614,8 @@ wow-life.net
 .wqyd.org
 ||wqyd.org
 wretch.cc
-cn.wsj.com/gb/20130215/tec113853.asp
+!-cn.wsj.com/gb/20130215/tec113853.asp
+cn.wsj.com
 .wtfpeople.com
 .wuala.com
 wuerkaixi.com
@@ -3777,7 +3790,7 @@ zinio.com
 ||ziplib.com
 .zkaip.com
 ||zkaip.com
-||zlib.net/
+!--||zlib.net/
 zmw.cn
 zomobo.net
 .zonaeuropa.com
@@ -4788,3 +4801,11 @@ gov.tw
 ||xiufei8.com
 ||twylah.com
 ||www.robinsonyu.com
+||avcool.com
+||cao20.com
+||www.tlyeo.com
+||gaeproxy.com
+||sunporno.com
+||sureporno.com
+||12vpn.net
+||www.leather-head.com
