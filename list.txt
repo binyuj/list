@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Thu, 28 Nov 2013 21:37:44 -0500
+! Last Modified: Sun, 08 Dec 2013 22:00:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -325,8 +325,8 @@ brightkite.com
 brizzly.com
 ||brizzly.com
 broadbook.com
-.broadcasthe.net
-||broadcasthe.net
+|https://*.broadcasthe.net
+|https://broadcasthe.net
 ibros.org
 brucewang.net
 ||bt95.com
@@ -754,6 +754,7 @@ falundafamuseum.org
 ||fanglizhi.info
 ||fangong.org
 fangongheike.com
+fanqianghou.com
 fapdu.com
 !--.farxian.com
 .fawanghuihui.org
@@ -885,6 +886,7 @@ freevpn.nl
 .fring.com
 ||fring.com
 ||frommel.net
+.frontlinedefenders.org
 ||fscked.org
 .fsurf.com
 !-.ftchinese.com/story/001038220
@@ -1649,6 +1651,7 @@ greatfirewallofchina.org
 ||gstatic.com
 guishan.org
 ||guishan.org
+||gunsamerica.com
 .gyalwarinpoche.com
 
 !--------------------HH--------------------
@@ -1857,7 +1860,8 @@ inxian.com
 ||ipicture.ru
 ipobar.com
 ||ippotv.com
-||iptorrents.com
+|https://*.iptorrents.com
+|https://iptorrents.com
 ||ipvanish.com
 iredmail.org
 ||ironicsoftware.com
@@ -1991,6 +1995,7 @@ laomiu.com
 .laoyang.info
 |http://laoyang.info
 ||laptoplockdown.com
+.laqingdan.net
 ||larsgeorge.com
 ||lastfm.es
 latelinenews.com
@@ -2390,6 +2395,8 @@ paperb.us
 ||panluan.net
 .panoramio.com
 .parade.com/dictators/2009
+|https://passthepopcorn.me/
+|https://*.passthepopcorn.me/
 pastebin.com
 .pastie.org
 ||pastie.org
@@ -3629,6 +3636,7 @@ wzyboy.im/post/160
 
 !--------------------------XX--------------------------
 |http://www.x-berry.com/goagent
+|http://x-art.com
 ||x-wall.org
 x1949x.com
 x365x.com
@@ -4809,3 +4817,5 @@ gov.tw
 ||sureporno.com
 ||12vpn.net
 ||www.leather-head.com
+||imgur.com
+||goagent.biz
