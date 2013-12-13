@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Sun, 08 Dec 2013 22:00:21 -0500
+! Last Modified: Wed, 11 Dec 2013 08:10:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -889,8 +889,7 @@ freevpn.nl
 .frontlinedefenders.org
 ||fscked.org
 .fsurf.com
-!-.ftchinese.com/story/001038220
-.ftchinese.com
+!-.ftchinese.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
@@ -1643,6 +1642,7 @@ myboooks.googlepages.com
 
 gospelherald.com
 ||gospelherald.com
+|http://hk.gradconnection.com/
 ||graylog2.org
 greatfire.org
 ||greatfire.org
@@ -2262,7 +2262,6 @@ tw*.nextmedia.com
 nexttv.com.tw
 ||nga.mil
 ngensis.com
-||ngs2.info
 nicovideo.tw
 !--||nicovideo.jp
 ||nighost.org
@@ -2679,6 +2678,7 @@ savemedia.com
 savetibet.org
 savevid.com
 ||say2.info
+.scmpchinese.com
 .scribd.com
 ||scriptspot.com
 seapuff.com
@@ -2854,7 +2854,7 @@ spinejs.com
 ||sproutcore.com
 squarespace.com
 ||ssh91.com
-|http://cdn.sstatic.net/
+!--|http://cdn.sstatic.net/
 www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
@@ -4819,3 +4819,5 @@ gov.tw
 ||www.leather-head.com
 ||imgur.com
 ||goagent.biz
+||codeshare.io
+||4chan.org
