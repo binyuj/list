@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Wed, 11 Dec 2013 08:10:57 -0500
+! Last Modified: Thu, 19 Dec 2013 22:22:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -63,6 +63,7 @@ huluim.com
 .315lz.com
 ||36rain.com
 ||4bluestones.biz
+||4chan.org
 5i01.com
 taiwannation.50webs.com
 ||51.ca
@@ -157,6 +158,7 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 www.aolnews.com
+video.ap.org
 .apetube.com
 ||apiary.io
 .apigee.com
@@ -2218,6 +2220,7 @@ nanyang.com
 ||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
+.nanzao.com
 ||navicat.com
 .nakido.com
 ||nakido.com
@@ -3002,6 +3005,7 @@ tinychat.com
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
+cn.tmagazine.com
 |http://tmi.me
 .tnaflix.com
 ||tnaflix.com
@@ -4820,4 +4824,4 @@ gov.tw
 ||imgur.com
 ||goagent.biz
 ||codeshare.io
-||4chan.org
+||directcreative.com
