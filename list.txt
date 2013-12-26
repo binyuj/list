@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Thu, 19 Dec 2013 22:22:35 -0500
+! Last Modified: Wed, 25 Dec 2013 20:09:33 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -86,7 +86,7 @@ taiwannation.50webs.com
 .92ccav.com
 ||9bis.com
 ||9bis.net
-.9city.me/archiver*308578.html
+.9city.me
 
 !--------------------AA--------------------
 ||a-normal-day.com
@@ -517,6 +517,7 @@ wiki.cnitter.com
 news.cnyes.com
 ||cochina.org
 .code1984.com/64
+||codeshare.io
 |http://tosh.comedycentral.com
 comefromchina.com
 ||comefromchina.com
@@ -611,6 +612,7 @@ delicious.com/GFWbookmark
 .diigo.com
 ||diigo.com
 ||furl.net
+||directcreative.com
 .discuss.com.hk
 ||discuss.com.hk
 disp.cc
@@ -2538,6 +2540,7 @@ privatepaste.com
 ||privatepaste.com
 privatetunnel.com
 ||privatetunnel.com
+||procopytips.com
 provideocoalition.com
 ||prosiben.de
 api.proxlet.com
@@ -4823,6 +4826,3 @@ gov.tw
 ||www.leather-head.com
 ||imgur.com
 ||goagent.biz
-||codeshare.io
-||directcreative.com
-||procopytips.com
