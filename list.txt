@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Wed, 25 Dec 2013 20:09:33 -0500
+! Last Modified: Thu, 26 Dec 2013 22:10:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2836,8 +2836,8 @@ sokamonline.com
 ||songjianjun.com
 .sopcast.com
 .sopcast.org
-soundcloud.com/punkgod
-|https://soundcloud.com/punkgod
+||soundcloud.com
+!--|https://soundcloud.com/punkgod
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
