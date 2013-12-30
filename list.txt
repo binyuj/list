@@ -10,13 +10,14 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Thu, 26 Dec 2013 22:10:57 -0500
+! Last Modified: Sat, 28 Dec 2013 00:45:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
 ||fxnetworks.com
 hulu.com
 huluim.com
+||muzu.tv
 ||netflix.com
 ||pandora.com
 .pandora.tv
@@ -2258,6 +2259,7 @@ news100.com.tw
 ||newsminer.com
 newspeak.cc/story
 .newsancai.com
+.newtaiwan.com.tw
 newtalk.tw
 ||newtalk.tw
 newyorktimes.com
@@ -4826,3 +4828,4 @@ gov.tw
 ||www.leather-head.com
 ||imgur.com
 ||goagent.biz
+||getchu.com
