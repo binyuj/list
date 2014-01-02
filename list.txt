@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Sat, 28 Dec 2013 00:45:26 -0500
+! Last Modified: Mon, 30 Dec 2013 22:11:16 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -945,6 +945,7 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
+.getchu.com
 ||getfoxyproxy.org
 .getfreedur.com
 .getjetso.com/forum
@@ -2041,6 +2042,7 @@ listorious.com
 liuxiaotong.com
 ||liuxiaotong.com
 liu.lu
+||liveleak.com
 .livestation.com
 livestream.com
 ||livestream.com
@@ -4828,4 +4830,5 @@ gov.tw
 ||www.leather-head.com
 ||imgur.com
 ||goagent.biz
-||getchu.com
+||joomlahost.it
+||funpic.de
