@@ -10,10 +10,12 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Mon, 30 Dec 2013 22:11:16 -0500
+! Last Modified: Wed, 19 Feb 2014 23:59:25 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
+||darpa.mil
+!--||dmm.com
 ||fxnetworks.com
 hulu.com
 huluim.com
@@ -84,6 +86,7 @@ taiwannation.50webs.com
 89-64.org
 ||89-64.org
 .9001700.com
+|http://908taiwan.org/
 .92ccav.com
 ||9bis.com
 ||9bis.net
@@ -114,6 +117,7 @@ aiph.net
 ||ajaxplorer.info
 ||www.ajsands.com
 ||akiba-online.com
+||alabout.com
 ||alasbarricadas.org
 ||notes.alexdong.com
 alexlur.org
@@ -165,6 +169,7 @@ video.ap.org
 .apigee.com
 ||apigee.com
 appledaily.com
+archive.is
 archive.org
 !--||archive.org
 .arctosia.com
@@ -255,7 +260,7 @@ billypan.com/wiki/%E9%A6%96%E9%A0%81
 bipic.net
 .bit.ly
 |http://bit.ly
-||bitbucket.org
+!--||bitbucket.org
 .bitshare.com/files
 http://bitshare.com/files
 !-|http://bitsnoop.com
@@ -414,6 +419,7 @@ cdpwu.org
 |http://change.org
 .changp.com
 ||changp.com
+.chaturbate.com
 chengmingmag.com
 .chenguangcheng.com
 ||chenguangcheng.com
@@ -639,6 +645,7 @@ dongtaiwang.com
 ||dontmovetochina.com
 .dotplane.com
 ||dotplane.com
+||dotsub.com
 doubleaf.com
 ||dougscripts.com
 dowei.org
@@ -773,6 +780,7 @@ fail.hk
 fangeming.com
 ||fanswong.com
 .farwestchina.com
+||fastly.net
 favorious.com
 ||favorious.com
 en.favotter.net
@@ -800,6 +808,7 @@ felixcat.net
 .fengzhenghu.com
 ||fengzhenghu.com
 fflick.com
+fgmtv.net
 .fgmtv.org
 .filefactory.com/file
 .files2me.com
@@ -811,11 +820,12 @@ findbook.tw
 finler.net
 .fireofliberty.org
 ||fireofliberty.org
-||flagfox.net
+!--||flagfox.net
 .falsefire.com
 ||falsefire.com
 fleshbot.com
 
+!--||farm6.staticflickr.com
 .flickr.com/photos/46231077@N06
 .flickr.com/groups/aiweiwei
 .flickr.com/photos/digitalboy100
@@ -850,6 +860,7 @@ foxtang.com
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
+free-gate.org
 .free.fr/adsl
 ||allonlinux.free.fr
 ||dimitrik.free.fr
@@ -1327,6 +1338,7 @@ google*search*q=cache
 .google.*search*8964
 .google.*boxun
 .google.*chinese+people+eating+babies
+.google.*http*dotsub.com
 .google.*east*turkistan
 .google.*facebook
 .google.*falun
@@ -1730,6 +1742,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hihistory.net
 .higfw.com
 ||highrockmedia.com
+||hikinggfw.org
 .himemix.com
 times.hinet.net
 .hjclub.info
@@ -1781,7 +1794,7 @@ hrichina.org
 huaglad.com
 .huanghuagang.org
 ||huanghuagang.org
-||huaren.us
+.huaren.us
 huaxia-news.com
 huaxin.ph
 hua-yue.net
@@ -1792,6 +1805,7 @@ t.huhaitai.com
 ||hutianyi.net
 hutong9.net
 ||hwinfo.com
+||hypeshell.com
 ||hyperrate.com
 
 !--------------------II--------------------
@@ -1806,6 +1820,7 @@ ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 |http://cn.ibtimes.com
 blogs.icerocket.com/tag
+.icij.org
 ||icl-fi.org
 ||iconpaper.org
 w.idaiwan.com/forum
@@ -1856,6 +1871,7 @@ immigration.gov.tw
 ||innermongolia.org
 ||interfaceaddiction.com
 ||internationalrivers.org
+|http://internet.org/
 internetdefenseleague.org
 internetfreedom.org
 ||internetpopculture.com
@@ -1884,6 +1900,7 @@ forum.iset.com.tw
 isohunt.com
 ||israbox.com
 blog.istef.info/2007/10/21/myentunnel
+.istockphoto.com
 isunaffairs.com
 isuntv.com
 itaboo.info
@@ -2042,6 +2059,7 @@ listorious.com
 liuxiaotong.com
 ||liuxiaotong.com
 liu.lu
+.liveleak.com
 ||liveleak.com
 .livestation.com
 livestream.com
@@ -2081,6 +2099,7 @@ lvhai.org
 m-team.cc/forum
 www.macrovpn.com
 ||mad-ar.ch
+||marc.info
 marguerite.su
 ||martincartoons.com
 .maiio.net
@@ -2132,6 +2151,8 @@ mihua.org
 minghui.org
 ||minghui.org
 minghui-school.org
+.mingjinglishi.com
+||mingjinglishi.com
 mingjingnews.com
 mingpao.com
 .mingpaomonthly.com
@@ -2194,6 +2215,7 @@ multiupload.com
 ||muzi.com
 ||muzi.net
 ||mx981.com
+.my-proxy.com
 forum.my903.com
 myactimes.com
 ||myaudiocast.com
@@ -2267,11 +2289,12 @@ newtalk.tw
 newyorktimes.com
 hk*.nextmedia.com
 tw*.nextmedia.com
+static.apple.nextmedia.com
 ||nexton-net.jp
 nexttv.com.tw
 ||nga.mil
 ngensis.com
-nicovideo.tw
+.nicovideo.jp/watch/
 !--||nicovideo.jp
 ||nighost.org
 nintendium.com
@@ -2338,6 +2361,8 @@ showbiz.omy.sg
 the-sun.on.cc
 tv.on.cc
 .onlylady.cn
+onmoon.net
+onmoon.com
 .oopsforum.com
 open.com.hk
 opendemocracy.net
@@ -2424,12 +2449,7 @@ pbwiki.com
 ||pbxes.org
 .pcdiscuss.com
 pcdvd.com.tw
-blog.pchome.com.tw
-||blog.pchome.com.tw
-forum.pchome.com.tw
-mypaper.pchome.com.tw
-news.pchome.com.tw
-www.pchome.com.tw
+.pchome.com.tw
 ||pct.org.tw
 pdetails.com
 ||pdproxy.com
@@ -2540,6 +2560,7 @@ heix.pp.ru
 ||prestige-av.com
 prisoner-state-secret-journal-premier
 ||privacybox.de
+||privateinternetaccess.com
 privatepaste.com
 ||privatepaste.com
 privatetunnel.com
@@ -2547,6 +2568,7 @@ privatetunnel.com
 ||procopytips.com
 provideocoalition.com
 ||prosiben.de
+proxifier.com
 api.proxlet.com
 ||proxomitron.info
 proxy.org
@@ -2672,8 +2694,10 @@ rutube.ru
 !--------------------SS--------------------
 blog.s135.com/google_ssl
 ||s1heng.com
+||s8forum.com
 sacom.hk
 ||sacom.hk
+||sadpanda.us
 .saiq.me
 ||saiq.me/
 .salvation.org.hk
@@ -2688,6 +2712,7 @@ savemedia.com
 savetibet.org
 savevid.com
 ||say2.info
+.scmp.com
 .scmpchinese.com
 .scribd.com
 ||scriptspot.com
@@ -2735,11 +2760,13 @@ sharpdaily.com.hk
 .sharpdaily.hk
 .shaunthesheep.com
 ||shaunthesheep.com
+||shellmix.com
 shenshou.org
 shenyunperformingarts.org
 shenzhoufilm.com
 ||shenzhoufilm.com
 shinychan.com
+.shitaotv.org
 ||shixiao.org
 ||shizhao.org
 .shizhao.org
@@ -2788,6 +2815,7 @@ sis001.us
 ||sjum.cn/
 ||skimtube.com
 ||skybet.com
+|http://skyhighpremium.com/
 bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
@@ -2897,6 +2925,7 @@ summify.com
 .suoluo.org
 api.supertweet.net
 www.supertweet.net
+.surfeasy.com.au
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
 ||svwind.com
@@ -2911,6 +2940,7 @@ blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
 ||szetowah.org.hk
+
 !--------------------------TT--------------------------
 .t35.com
 .t66y.com
@@ -3048,6 +3078,7 @@ trendsmap.com
 ||tripod.com
 @@||www.tripod.com
 trtc.com.tw
+trulyergonomic.com
 ||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
@@ -3286,12 +3317,14 @@ twitreferral.com
 |https://t.co
 |http://twt.tl
 ||twimg.com
+twittbot.net
 twitter.com
 ||twitter.com
 ||twitter.jp
 ||twttr.com
 /^https?:\/\/[^\/]+twitter\.com/
 
+||twitter4j.org
 .twittercounter.com
 ||twittercounter.com
 twitterfeed.com
@@ -3797,7 +3830,7 @@ zhenghui.org
 zhenlibu.info
 ||zhenlibu.info
 .zhinengluyou.com
-zhonggtuotese.net
+||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
 zhuichaguoji.org
