@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Wed, 19 Feb 2014 23:59:25 -0500
+! Last Modified: Mon, 24 Feb 2014 23:33:17 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -333,8 +333,6 @@ brightkite.com
 brizzly.com
 ||brizzly.com
 broadbook.com
-|https://*.broadcasthe.net
-|https://broadcasthe.net
 ibros.org
 brucewang.net
 ||bt95.com
@@ -2428,8 +2426,6 @@ paperb.us
 ||panluan.net
 .panoramio.com
 .parade.com/dictators/2009
-|https://passthepopcorn.me/
-|https://*.passthepopcorn.me/
 pastebin.com
 .pastie.org
 ||pastie.org
@@ -2820,6 +2816,8 @@ bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 |http://www.skype.com/zh-Hant
+.xskywalker.com
+||xskywalker.com
 m.slandr.net
 ||slavasoft.com
 ||slheng.com
@@ -4653,6 +4651,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%A4%AE%E8%AD%A6%E8%A1%9B%E5%B1%80
 zh.wikipedia.org*%E4%B8%AD%E5%A4%AE%E6%96%87%E5%8C%96%E9%9D%A9%E5%91%BD%E5%B0%8F%E7%BB%84
 !--Zhong Ying Xu Ding Zang Yin Tiao Yue
 zh.wikipedia.org*%E4%B8%AD%E8%8B%B1%E7%BA%8C%E8%A8%82%E8%97%8F%E5%8D%B0%E6%A2%9D%E7%B4%84
+!--Zhou Bin
+zh.wikipedia.org*%E5%91%A8%E6%BB%A8
 !--Zhou Yong Kang
 zh.wikipedia.org*%E5%91%A8%E6%B0%B8%E5%BA%B7
 !--Zhuan Fa Lun
@@ -4865,3 +4865,6 @@ gov.tw
 ||goagent.biz
 ||joomlahost.it
 ||funpic.de
+|http://goagent.codeplex.com
+||hohosex.com
+||free4u.com.ar
