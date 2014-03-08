@@ -10,7 +10,7 @@
 ! 以上规则写好的情况下，如果再在前面加@@表示匹配规则的url不过代理，例如@@||example.com
 ! @@规则有高优先级，若你发现AutoProxy默认规则中某个url不应过代理，可自己写出相应规则并在前面加@@
 ! 
-! Last Modified: Mon, 24 Feb 2014 23:33:17 -0500
+! Last Modified: Tue, 04 Mar 2014 23:40:45 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -433,6 +433,8 @@ chinaaffairs.org
 ||chinaaffairs.org
 ||chinaaid.me
 chinaaid.us
+chinaaid.org
+chinaaid.net
 chinacomments.org
 ||chinacomments.org
 chinachannel.hk
@@ -957,6 +959,8 @@ geocities.jp
 .getchu.com
 ||getfoxyproxy.org
 .getfreedur.com
+.getlantern.org
+||getlantern.org
 .getjetso.com/forum
 getiton.com
 .getsocialscope.com
@@ -1653,7 +1657,7 @@ video.google.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
-.googlevideo.com
+||googlevideo.com
 |https://apis.google.com
 
 gospelherald.com
@@ -1756,6 +1760,7 @@ hkday.net
 .hkej.com/template/forum
 .hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
+hkfront.org
 hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
