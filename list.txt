@@ -2388,7 +2388,7 @@ news.omy.sg
 showbiz.omy.sg
 the-sun.on.cc
 tv.on.cc
-|https://onedrive.live.com/
+!--|https://onedrive.live.com/
 .onlylady.cn
 onmoon.net
 onmoon.com
@@ -4909,3 +4909,5 @@ gov.tw
 ||free4u.com.ar
 ||bunsou.com
 ||yizitong.com
+||gravatar.com
+@@||secure.gravatar.com
